@@ -1,0 +1,33 @@
+bloatware git:(master) ✗ kubectl get pods -n udacity
+NAME                                  READY   STATUS    RESTARTS      AGE
+bloaty-mcbloatface-55c7c56c54-6k8bp   1/1     Running   0             16m
+bloaty-mcbloatface-55c7c56c54-7vlkt   1/1     Running   0             16m
+bloaty-mcbloatface-55c7c56c54-9zg56   1/1     Running   0             16m
+bloaty-mcbloatface-55c7c56c54-bdsll   1/1     Running   0             16m
+bloaty-mcbloatface-55c7c56c54-cs578   1/1     Running   0             16m
+bloaty-mcbloatface-55c7c56c54-dml7k   1/1     Running   0             16m
+bloaty-mcbloatface-55c7c56c54-dwhf2   1/1     Running   0             16m
+bloaty-mcbloatface-55c7c56c54-hpwkl   1/1     Running   0             16m
+bloaty-mcbloatface-55c7c56c54-kq2v5   1/1     Running   0             16m
+bloaty-mcbloatface-55c7c56c54-krwl2   1/1     Running   0             16m
+bloaty-mcbloatface-55c7c56c54-m96hj   1/1     Running   0             16m
+bloaty-mcbloatface-55c7c56c54-mkc5m   1/1     Running   0             16m
+bloaty-mcbloatface-55c7c56c54-nphc2   1/1     Running   0             16m
+bloaty-mcbloatface-55c7c56c54-pnt4t   1/1     Running   0             16m
+bloaty-mcbloatface-55c7c56c54-wgs7k   1/1     Running   0             16m
+bloaty-mcbloatface-55c7c56c54-xdm2v   1/1     Running   0             16m
+bloaty-mcbloatface-55c7c56c54-z8qbz   1/1     Running   0             16m
+blue-5b8f867b7-5nzxz                  1/1     Running   0             5h42m
+blue-5b8f867b7-gqkkb                  1/1     Running   0             5h42m
+blue-5b8f867b7-m7tkd                  1/1     Running   0             10h
+canary-v1-78fd9f7474-hv9ws            1/1     Running   0             5h43m
+canary-v1-78fd9f7474-npb5q            1/1     Running   0             5h42m
+canary-v1-78fd9f7474-s59tm            1/1     Running   0             5h56m
+canary-v2-f66b6c74b-8274s             1/1     Running   0             5h38m
+canary-v2-f66b6c74b-dbj46             1/1     Running   0             6h49m
+canary-v2-f66b6c74b-w5k4z             1/1     Running   0             5h38m
+debug                                 1/1     Running   1 (28m ago)   5h46m
+green-7d8b79f869-4b7jb                1/1     Running   0             51m
+green-7d8b79f869-bhpvk                1/1     Running   0             51m
+green-7d8b79f869-qdf9m                1/1     Running   0             51m
+hello-world-c47cbb8f8-zn5k9           1/1     Running   0             9h

@@ -1,0 +1,13 @@
+➜  nd087-c3-deployment-roulette git:(master) ✗ kubectl get pods -n udacity
+NAME                          READY   STATUS    RESTARTS   AGE
+blue-5b8f867b7-5nzxz          1/1     Running   0          17m
+blue-5b8f867b7-gqkkb          1/1     Running   0          17m
+blue-5b8f867b7-m7tkd          1/1     Running   0          4h46m
+canary-v1-78fd9f7474-hv9ws    1/1     Running   0          18m
+canary-v1-78fd9f7474-npb5q    1/1     Running   0          17m
+canary-v1-78fd9f7474-s59tm    1/1     Running   0          31m
+canary-v2-f66b6c74b-8274s     1/1     Running   0          13m
+canary-v2-f66b6c74b-dbj46     1/1     Running   0          84m
+canary-v2-f66b6c74b-w5k4z     1/1     Running   0          13m
+debug                         1/1     Running   0          21m
+hello-world-c47cbb8f8-zn5k9   1/1     Running   0          3h52m
